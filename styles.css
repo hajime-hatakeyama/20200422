@@ -5,26 +5,26 @@ h1 {
   text-align: center;
 }
 #btn {
-  width: 200px;
-  height: 200px;
+  width: 600px;
+  height: 600px;
   background: hsl(350, 50%, 70%);
   border-radius: 50%;
-  margin: 30px auto;
+  margin: 100px auto;
   text-align: center;
-  line-height: 200px;
+  line-height: 600px;
   color: #ffff;
   font-weight: bold;
-  font-size: 42px;
+  font-size: 120px;
   cursor: pointer;
-  box-shadow: 0 10px 0 hsl(350, 40%, 50%);
+  box-shadow: 0 30px 0 hsl(350, 40%, 50%);
   user-select: none;
 }
 
 #btn:hover {
-  opacity: 0.9;
+  opacity: 0.8;
 }
 
 #btn:active {
-  box-shadow: 0 5px 0 #d1483e;
-  margin-top: 35px;
+  box-shadow: 0 15px 0 #d1483e;
+  margin-top: 100px;
 }
